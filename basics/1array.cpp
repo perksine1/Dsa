@@ -11,9 +11,9 @@ int main()
         cin>>a[i];
     }
 
-    for(int j=0;j<5;j++)
+    for(int i=0;i<5;i++)
     {
-        cout<<a[j];
+        cout<<a[i];
     }
     cout<<endl<<sizeof(a);
     return 0;
